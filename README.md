@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Hm-consultoria](https://www.linkedin.com/company/hm-consultoria/)
 
-- 🌱 I’m currently learning **GraphQl, Tdd**
+- 🌱 I’m currently learning **GraphQl, Tdd, NextJs, NextJs, TDD**
 
 - 👯 I’m looking to collaborate on **React, Node,**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/robsonmvieira?tab=repositories](https://github.com/robsonmvieira?tab=repositories)
 
-- 💬 Ask me about **React, Node, Angular**
+- 💬 Ask me about **React, Node, Angular, Typescript**
 
 - 📫 How to reach me **robsonmvieira@gmail.com**
 
