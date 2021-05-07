@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Hm-consultoria](https://www.linkedin.com/company/hm-consultoria/)
 
-- 🌱 I’m currently learning **GraphQl NextJs, NestJs, TDD**
+- 🌱 I’m currently learning ** NextJs, NestJs, TDD**
 
 - 👯 I’m looking to collaborate on **React, Node,**
 
