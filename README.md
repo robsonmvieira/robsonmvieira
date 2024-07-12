@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Robson Maia</h1>
 <h3 align="center">A passionate frontend and backend developer from Brazil</h3>
 
-- 🔭 I’m currently working at [Suflex](https://www.linkedin.com/company/suflex/)
-
 - 🌱 I’m currently learning **NextJs, NestJs, TDD**
 
 - 👯 I’m looking to collaborate on **React, Node,**
